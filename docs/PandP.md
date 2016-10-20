@@ -203,8 +203,8 @@ Quality of statistics refers to all aspects of how well statistics meet users’
 
 Achieving an acceptable level of quality is the result of addressing, managing and balancing over time the various factors or elements that constitute better quality. Paying attention to the programme objectives, the major uses of the data, costs, and conditions and circumstances that affect quality and user expectations are also important in determining an acceptable level of quality. Since the elements of quality have a complex relationship, an action taken to address or modify one aspect of quality tends to affect the other elements. Thus, the balance between these factors may be altered in ways that cannot readily be modelled or adequately quantified in advance. The decision and actions that achieve this balance are based on knowledge, experience, reviews, feedback, consultation and judgment.
 
-Key Dimensions of Data Quality ||
-|----|----|
+Key Dimensions of Data Quality |
+----|----
 Relevance | The degree to which the statistical product meets user needs in coverage, content and detail.
 Accuracy | The degree to which the information correctly describes the phenomena it was designed to measure.
 Timeliness |The degree to which data produced are up to date, published frequently and delivered to schedule.
@@ -291,7 +291,19 @@ Statistics producers need to have effective ways to help them understand the key
 ### PROTOCOL 1 - ELEMENT 5: Accuracy
 > Source data and statistical techniques are sound and statistical outputs describe the reality they are designed to represent.
 Accuracy begins with a clear definition of the target characteristic and specifications for an acceptable level of error. This may not be possible with statistics produced from administrative records which were originally collected for non-statistical purposes.
+tails refer to Protocol 2.
 
+- Through analysing and focusing on the data themselves:
+	- by comparing and integrating data over time
+	- managing revision processes by documenting discontinuities and/or
+	- providing consistent back-data series.
+
+
+#### Key elements of this protocol
+- Producers of Tier 1 statistics use standard practices and approaches across official statistics, and foster their adoption.
+- Internationally or nationally-agreed definitions, methods and classifications are used where relevant, to aid comparison with other outputs.
+- The release of each Tier 1 statistic includes a clear statement on the degree of compliance with agreed definitions, methods and practices (where these have been identified) including any known reasons for deviation.
+- Statistics are cons
 #### Key elements of this protocol
 - Have in place a set of accuracy requirements and a system designed to meet those requirements.
 - Have information that shows that accuracy requirements are being met.
@@ -333,19 +345,7 @@ Timeliness standards for key economic statistics are prescribed in the Internati
 	- variables
 	- classification systems.[^fn]
 
-[^fn]: For further details refer to Protocol 2.
-
-- Through analysing and focusing on the data themselves:
-	- by comparing and integrating data over time
-	- managing revision processes by documenting discontinuities and/or
-	- providing consistent back-data series.
-
-
-#### Key elements of this protocol
-- Producers of Tier 1 statistics use standard practices and approaches across official statistics, and foster their adoption.
-- Internationally or nationally-agreed definitions, methods and classifications are used where relevant, to aid comparison with other outputs.
-- The release of each Tier 1 statistic includes a clear statement on the degree of compliance with agreed definitions, methods and practices (where these have been identified) including any known reasons for deviation.
-- Statistics are consistent or reconcilable with those obtained through other data sources and/or statistical frameworks.
+[^fn]: For further deistent or reconcilable with those obtained through other data sources and/or statistical frameworks.
 - Economic concepts are valued and recorded according to internationally accepted standards, guidelines, or good practices. Where they are not followed, an explanation is provided and a development plan includes ways to achieve compliance during the next major upgrade.
 - Points of discontinuity in a time series are identified and accompanied by an explanation.
 - Substantial revisions to time series should provide a consistent back-data series where practicable, an analysis of the differences between the old and revised series, and an explanation of the effect on any previously published commentary or interpretation.
